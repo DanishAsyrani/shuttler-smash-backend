@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic==2.*
+python-multipart
+numpy==1.26.4
+opencv-python==4.9.0.80
+mediapipe==0.10.14
+av==15.1.0
+protobuf==4.25.8
+
